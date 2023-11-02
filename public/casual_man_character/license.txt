@@ -1,0 +1,11 @@
+Model Information:
+* title:	Casual Man Character
+* source:	https://sketchfab.com/3d-models/casual-man-character-05d9dd5bdddd4157bd46dc179781ee6e
+* author:	Bogdan Streletskiy (https://sketchfab.com/streletskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Casual Man Character" (https://sketchfab.com/3d-models/casual-man-character-05d9dd5bdddd4157bd46dc179781ee6e) by Bogdan Streletskiy (https://sketchfab.com/streletskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
